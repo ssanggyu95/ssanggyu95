@@ -14,6 +14,9 @@ chart v4
 
 ![image](https://user-images.githubusercontent.com/88379428/128634137-41830143-f1f8-4c4c-a80a-e629bf1cc570.png)
 
+average FPS 69.9
+
+
 
 YOLO v4 -tiny model
 
@@ -23,7 +26,7 @@ chart v4 tiny
 
 ![image](https://user-images.githubusercontent.com/88379428/128634159-3ec649d3-e314-4352-a0c7-2c4fc66b1e8e.png)
 
-
+average FPS 352.0
 
 <!---
 ssanggyu95/ssanggyu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
