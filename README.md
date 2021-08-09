@@ -19,7 +19,7 @@ average FPS : 69.9
 
 
 
-YOLO v4 -tiny model
+YOLO v4 -tiny model (flip X)
 
 ![image](https://user-images.githubusercontent.com/88379428/128634074-55bd8fad-0f41-46e7-bfc9-d495aa10a38b.png)
 
@@ -28,7 +28,19 @@ chart v4 tiny
 ![image](https://user-images.githubusercontent.com/88379428/128634159-3ec649d3-e314-4352-a0c7-2c4fc66b1e8e.png)
 
 using one GPU(Titan Xp)
-average FPS 352.0
+average FPS : 352.0
+
+YOLO v4 -tiny model (flip X)
+
+![image](https://user-images.githubusercontent.com/88379428/128659135-56b76adc-76cb-4b07-be42-dc4575333905.png)
+
+chart v4 tiny
+
+![image](https://user-images.githubusercontent.com/88379428/128659229-aa6fbc0e-dd90-437d-a62b-1f9ba307bebf.png)
+
+
+using one GPU(Titan Xp)
+average FPS : 352.0
 
 <!---
 ssanggyu95/ssanggyu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
