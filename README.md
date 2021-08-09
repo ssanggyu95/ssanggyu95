@@ -30,7 +30,7 @@ chart v4 tiny
 using one GPU(Titan Xp)
 average FPS : 352.0
 
-YOLO v4 -tiny model (flip X)
+YOLO v4 -tiny model (flip O)
 
 ![image](https://user-images.githubusercontent.com/88379428/128659135-56b76adc-76cb-4b07-be42-dc4575333905.png)
 
